@@ -1,9 +1,9 @@
 {
-"Title": "حمایت از اسپانسر برنامه 🙏🏻",
-"Description": "سلام ، لطفا برای جلوگیری از قطع شدن فیلترشکن حتما عضو کانال تلگرامی اسپانسر ما شوید در غیر این صورت اتصال شما قطع میشود ❤️",
-"Link": "tg://join?invite=BVnhUgtLMJFlOTc8",
-"ColorWave": "#7C4DFF",
-"Color": "#FF9100",
+"Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
+"Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
+"Link": "tg://join?invite=U-iAhFfN3u03ZTU0",
+"ColorWave": "#18FFFF",
+"Color": "#7C4DFF",
 "ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "855585",
-"ShowTime": "2",
-"Button": " عضویت در کانال تلگرام ",
-"ButtonCancell": "  ",
+"Cancellable": "true",
+"MessageID": "0020276527",
+"ShowTime": "3",
+"Button": " دانلود فیلترشکن بدون قطعی ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
